@@ -1,2 +1,22 @@
-# Basic_Onshape_CAD
-This repository will contain all the assignments for Onshape CAD
+## Base
+
+### Description 
+
+
+### Lessons Learned 
+
+
+### Images
+<img src="media/Base.png" width="800">
+
+## 
+
+### Description 
+
+
+### Lessons Learned 
+
+
+### Images
+<img src="media/" width="800">
+
