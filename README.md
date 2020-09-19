@@ -91,6 +91,20 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
 
 
+## Caster Final Assebly
+
+### Description 
+  In this assignment you take all the oarts you've created to create the final Assembly with all pieces mated together.
+
+### Lessons Learned 
+  In this lesson I learned how to input standard content which contains all the screws and nuts. I learned parallel mates and a feautre of mates called offset which can be used to alter your mate by a factor of milimeters in either the x, y, or z direction. 
+
+### Images and Links
+<img src="media/CasterFinalAssembly-Lukas.png" width="500">
+Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
+
+
+
 ## 
 
 ### Description 
@@ -102,3 +116,4 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 ### Images and Links
 <img src="media/-Lukas.png" width="800">
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
+
