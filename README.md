@@ -22,19 +22,8 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 <img src="media/Mount.png" width="800">
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
 
-## 
 
-### Description 
-  
-
-### Lessons Learned 
-  
-
-### Images and Links
-<img src="media/.png" width="800">
-Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
-
-## Fork 
+## Fork
 
 ### Description 
   In this assignment the task was to create the part that the base and mount holds and its the piece that contains the wheel.
@@ -43,7 +32,7 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
   In this lesson I learned how to fillet and chamfer in Onshape. I discovered that in fillets and Chamfers you can have tangent propagation and this automatically selects any connecting lines and makes fillets and chamfers even easier.  
 
 ### Images and Links
-<img src="media/.png" width="800">
+<img src="media/Fork-Lukas.png" width="800">
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
 
 
