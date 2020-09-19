@@ -49,6 +49,20 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
 
 
+## Wheel
+
+### Description 
+  In this assignment you creating the wheel/rim of the caster asssembly.
+
+### Lessons Learned 
+   I learned in this assignment how to control the display of the part like if its shaded or shaded with hidden edges and those functions. Also, this was my first time using circular patternin Onshape so I got some experience with that and how it works. Also, I learned that unlike Solid Works you dont need one connected feature you can use multiple features at once.
+
+### Images and Links
+<img src="media/Wheel-Lukas.png" width="800">
+Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
+
+
+
 ## 
 
 ### Description 
@@ -58,5 +72,5 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
   
 
 ### Images and Links
-<img src="media/.png" width="800">
+<img src="media/-Lukas.png" width="800">
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
