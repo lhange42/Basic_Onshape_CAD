@@ -39,6 +39,19 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 ## 
 
 ### Description 
+  In this assignment you create the wheel for the caster assembly.
+
+### Lessons Learned 
+  I learend how to revolve in Onshape which like everything else is very similar to Solid Works. I used some new relations like symetric. Also, I learend that just like in Solid Works when you bring a dimension past the center line it becomes a Diameter instead of a radius. 
+
+### Images and Links
+<img src="media/Tire-Lukas.png" width="600">
+Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
+
+
+## 
+
+### Description 
   
 
 ### Lessons Learned 
