@@ -72,7 +72,7 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
   I learned how to make an extrude go in both directions using symetric in Onshape. I also learned a really helpful feauture called "use" where you can take edges and elements of other sketches and involve them in the sketch your currently editting. Another thing I learned is using the merge scope to only extrude cut through one part.
 
 ### Images and Links
-<img src="media/-Lukas.png" width="800">
+<img src="media/AxleAndCollar-Lukas.png" width="400"> <img src="media/Washer-Lukas.png" width="400"> <img src="media/Bearing-Lukas.png" width="400">
 Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
 
 
