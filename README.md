@@ -105,6 +105,20 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 
 
 
+## Dowel Pins
+
+### Description 
+  In this assignment the task was to use onshapes configuration to change the diameter, length, and chamfer of dowel pins and use them to make a picture frame.
+
+### Lessons Learned 
+  I learned how to use configurations by using the configuration panel on the right side of the screen. You create a new configuration list rename it to whatever you are configuring and then enter the names of the configurations. Then you use the configure feature to select the feature that you are configuring in your sketch and you put in the different values you want. Then it should appear at the top of your design tree and you should be able to change between the differen configurations there.
+
+### Images and Links
+<img src="media/DowelPins-Lukas.png" width="800">
+Link to Onshape Document: https://cvilleschools.onshape.com/documents/2d474181bb37fefdc8cd8bed/w/9924aed1a578e543be369826/e/d012a31edf8a42cdb25e7ff5
+
+
+
 ## 
 
 ### Description 
@@ -115,5 +129,5 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e8673
 
 ### Images and Links
 <img src="media/-Lukas.png" width="800">
-Link to Onshape Document: https://cvilleschools.onshape.com/documents/db947e86732b2acb3fc0f047/w/a5d84f12b520ae19909d2aca/e/0d0766e2ce91ec9ff1f14abc
+Link to Onshape Document: 
 
