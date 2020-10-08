@@ -119,6 +119,42 @@ Link to Onshape Document: https://cvilleschools.onshape.com/documents/2d474181bb
 
 
 
+## Onshape Challenge
+
+### Description 
+  In this assignment your task is to create three parts, cube, spinner, and bracket, to make an assembly. 
+
+### Lessons Learned 
+  I used a surface extrude for the first time which involves lines instead of shapes. I also used cylindrical mates which are very similar to revolute but they allow more movement. I also learned to always double check your sketches, because I struggled with the assembly because one of my holes on my bracket was 20 mm from the outer edge and not the center.
+
+### Images and Links
+<img src="media/OnshapeChallenge-Lukas.png" width="800">
+Link to Onshape Document: https://cvilleschools.onshape.com/documents/d1db11fc1387b5ce4549b9dc/w/f0b43b9d363273a7dff8a4d6/e/d7cc1fd7e20b583a8894b9a3
+
+## 
+
+### Description 
+  
+
+### Lessons Learned 
+  
+
+### Images and Links
+<img src="media/-Lukas.png" width="800">
+Link to Onshape Document: 
+
+## 
+
+### Description 
+  
+
+### Lessons Learned 
+  
+
+### Images and Links
+<img src="media/-Lukas.png" width="800">
+Link to Onshape Document: 
+
 ## 
 
 ### Description 
